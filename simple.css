@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+#order{
+   
+
+}
+#co li{
+    font-weight: bold;
+
+
+}
+@media only screen and (max-width:1280px) {
+    #nav{
+       background-color: aqua;
+    }
+    
+    
+    
+    
+    .media1{
+        width: 250px;
+        height: 200px;
+    }
+    
+    
+}
